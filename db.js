@@ -1,5 +1,5 @@
-const users = require("./users.json");
-const posts = require("./posts.json");
+const users = require("./data/users");
+const posts = require("./data/posts");
 module.exports = {
   users,
   posts,
