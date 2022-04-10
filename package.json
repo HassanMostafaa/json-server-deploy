@@ -8,7 +8,7 @@
   },
   "author": "Hassan Mostafa",
   "license": "ISC",
-  "dependencies": {
+  "devDependencies": {
     "json-server": "^0.17.0"
   }
 }
