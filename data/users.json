@@ -1,62 +1,62 @@
 [
-    {
-      "id": 1,
-      "fullName": "Hassan Admin Account",
-      "userName": "admin",
-      "email": "admin@admin.com",
-      "phone": "11111111111",
-      "password": "123456",
-      "privilegeLevel": "admin",
-      "createdAt": "1-1-1T1:1:1.14Z"
-    },
-    {
-      "id": "49ad4227-41e0-463b-819a-2a1c5f3d6055 ",
-      "fullName": "newUs",
-      "userName": "newuser username",
-      "email": "newuser@newuser.com",
-      "phone": "123456",
-      "password": "123456",
-      "privilegeLevel": "user",
-      "createdAt": "2021-04-08T13:10:46.514Z"
-    },
-    {
-      "id": "19293476-16d3-4202-b5f3-0172536adf4b",
-      "fullName": "New User FullName",
-      "userName": "newUserUserName",
-      "email": "newUser@user.com",
-      "phone": "0123456789",
-      "password": "123456",
-      "privilegeLevel": "user",
-      "createdAt": "2020-04-08T13:10:46.514Z"
-    },
-    {
-      "id": "77ddf8b8-f656-4d51-b994-3aadd4dd7cb7",
-      "fullName": "Hassan Mostafa Hassan Mohamed",
-      "userName": "huss",
-      "email": "hassan@yahoo.biz",
-      "phone": "123456789",
-      "password": "123456",
-      "privilegeLevel": "user",
-      "createdAt": "2019-04-08T13:10:46.514Z"
-    },
-    {
-      "id": "5ad1ca81-4082-4132-8163-bdc8eb520f5c",
-      "fullName": "Hussam Mostafa Hassan",
-      "userName": "huss",
-      "email": "huss@huss.com",
-      "phone": "1122321321654",
-      "password": "123456",
-      "privilegeLevel": "user",
-      "createdAt": "2019-01-08T13:10:46.514Z"
-    },
-    {
-      "id": "ec18cd5b-7511-4062-be55-445a93e667b7",
-      "fullName": "Hassan Mostafa Mo",
-      "userName": "hassan@hassan.com",
-      "email": "hassan@hassan.com",
-      "phone": "121132",
-      "password": "12345678",
-      "privilegeLevel": "user",
-      "createdAt": "2022-04-10T03:00:52.297Z"
-    }
-  ],
+  {
+    "id": 1,
+    "fullName": "Hassan Admin Account",
+    "userName": "admin",
+    "email": "admin@admin.com",
+    "phone": "11111111111",
+    "password": "123456",
+    "privilegeLevel": "admin",
+    "createdAt": "1-1-1T1:1:1.14Z"
+  },
+  {
+    "id": "49ad4227-41e0-463b-819a-2a1c5f3d6055 ",
+    "fullName": "newUs",
+    "userName": "newuser username",
+    "email": "newuser@newuser.com",
+    "phone": "123456",
+    "password": "123456",
+    "privilegeLevel": "user",
+    "createdAt": "2021-04-08T13:10:46.514Z"
+  },
+  {
+    "id": "19293476-16d3-4202-b5f3-0172536adf4b",
+    "fullName": "New User FullName",
+    "userName": "newUserUserName",
+    "email": "newUser@user.com",
+    "phone": "0123456789",
+    "password": "123456",
+    "privilegeLevel": "user",
+    "createdAt": "2020-04-08T13:10:46.514Z"
+  },
+  {
+    "id": "77ddf8b8-f656-4d51-b994-3aadd4dd7cb7",
+    "fullName": "Hassan Mostafa Hassan Mohamed",
+    "userName": "huss",
+    "email": "hassan@yahoo.biz",
+    "phone": "123456789",
+    "password": "123456",
+    "privilegeLevel": "user",
+    "createdAt": "2019-04-08T13:10:46.514Z"
+  },
+  {
+    "id": "5ad1ca81-4082-4132-8163-bdc8eb520f5c",
+    "fullName": "Hussam Mostafa Hassan",
+    "userName": "huss",
+    "email": "huss@huss.com",
+    "phone": "1122321321654",
+    "password": "123456",
+    "privilegeLevel": "user",
+    "createdAt": "2019-01-08T13:10:46.514Z"
+  },
+  {
+    "id": "ec18cd5b-7511-4062-be55-445a93e667b7",
+    "fullName": "Hassan Mostafa Mo",
+    "userName": "hassan@hassan.com",
+    "email": "hassan@hassan.com",
+    "phone": "121132",
+    "password": "12345678",
+    "privilegeLevel": "user",
+    "createdAt": "2022-04-10T03:00:52.297Z"
+  }
+]
