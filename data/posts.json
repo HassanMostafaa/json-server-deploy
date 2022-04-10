@@ -1,6 +1,8 @@
-[
-  { "id": 1, "userId": 1, "title": "post one user one" },
-  { "id": 2, "userId": 1, "title": "post two user one" },
-  { "id": 3, "userId": 2, "title": "post one user two" },
-  { "id": 4, "userId": 2, "title": "post two user two" }
-]
+{
+  "posts": [
+    { "id": 1, "userId": 1, "title": "post one user one" },
+    { "id": 2, "userId": 1, "title": "post two user one" },
+    { "id": 3, "userId": 2, "title": "post one user two" },
+    { "id": 4, "userId": 2, "title": "post two user two" }
+  ]
+}
