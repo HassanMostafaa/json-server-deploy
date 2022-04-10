@@ -1,0 +1,15 @@
+{
+  "name": "json-server-deploy",
+  "version": "1.0.0",
+  "description": "json server deploy test with heroku",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Hassan Mostafa",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
